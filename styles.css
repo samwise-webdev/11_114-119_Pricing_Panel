@@ -41,3 +41,8 @@ body {
     font-weight: 600;
     letter-spacing: 1px;
 }
+
+.pricing-features {
+    margin: 50px 0 25px;
+    color: #016ff9;
+}
