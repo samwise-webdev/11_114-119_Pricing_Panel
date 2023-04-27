@@ -46,3 +46,12 @@ body {
     margin: 50px 0 25px;
     color: #016ff9;
 }
+
+.pricing-features-item {
+    font-weight: 600;
+    letter-spacing: 1px;
+    font-size: 12px;
+    line-height: 1.5;
+    padding: 15px 0; /* shorthand, top/bottom get 15px, L/R get 0px */
+    border-top: 1px solid #e1f1ff;
+}
